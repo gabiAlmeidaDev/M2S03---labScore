@@ -2,9 +2,8 @@
 let notas = [7.5, 8.0, 9.5, 6.0];
 
 function calcularMedia(notas) {
-    let soma = 0; com 0
+    let soma = 0;
 
-    // Laço for para percorrer o array de notas
     for (let i = 0; i < notas.length; i++) {
         soma += notas[i]; 
     }
